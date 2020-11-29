@@ -15,13 +15,27 @@ class MyApp extends StatelessWidget {
           ),
           body: Center(
             child: SafeArea(
+              minimum: EdgeInsets.zero,
               top: true,
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.start,
                 children: <Widget>[
+                  SizedBox(
+                    height: 10,
+                  ),
                   CircleAvatar(
                       radius: 70,
                       backgroundImage: AssetImage('images/SecurityLogo.jpg')),
+                  SizedBox(
+                    height: 10,
+                  ),
+                  Text(
+                    "LOGIN TO VOTE",
+                    style: TextStyle(
+                        fontSize: 40,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.amber),
+                  ),
                 ],
               ),
             ),
