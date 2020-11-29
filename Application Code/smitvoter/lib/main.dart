@@ -36,6 +36,12 @@ class MyApp extends StatelessWidget {
                         fontWeight: FontWeight.bold,
                         color: Colors.amber),
                   ),
+                  TextField(
+                    decoration: InputDecoration(
+                      border: InputBorder.none,
+                      hintText: ('Enter a search term'),
+                    ),
+                  ),
                 ],
               ),
             ),
