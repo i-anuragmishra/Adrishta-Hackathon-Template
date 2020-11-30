@@ -24,8 +24,8 @@ I tried that voting experince should be semaless and simple . That's why app has
 * The Technoogies used here are:
    *  **Flutter : For development of the App so the app can be deployed for both IOS and Android**
    *  **Fire base is used to store result of the Voting and Save voters identity.**
-   <img src="https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./firebase.jpg" width="100" height="60">
-   <img src="https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./flutter.png" width="50" height="50">
+   <img src="https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./firebase.jpg" width="150" height="90">
+   <img src="https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./flutter.png" width="80" height="75">
    
 * Setup/Installations required to run the solution
      * Run the APK provided in any android devive running Android 9 or later. or IOS 11 or later.
