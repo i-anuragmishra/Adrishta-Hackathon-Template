@@ -1,4 +1,4 @@
-## Team Number \08 - \smitvoter
+## Team Number 08 - smitvoter(ivoter)
 <img src="https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./SecurityLogo.jpg" width="250" height="250">
 
 The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). *Clone the repo on your local system and build on top of that*
@@ -10,9 +10,13 @@ The following created sections in this README.md need to be duly filled, highlig
 ### Project Overview
 
 A brief description of 
-* What problem did the team try to solve?
+    **Solution to given Hackathon Problem**
+         I tried that voting experince should be semaless and simple . That's why app has less screens and clutter. The Most important objective we tried to achive is Via Firebase intergation of the app . 
+         Due to Fire base authentication it became a essential part ofthe app to have **privacy of the voter** and only **Authentic voters** participate in the election process.
+          
 
 * What is the proposed solution?
+    
 
 ### Solution Description
 
@@ -20,13 +24,12 @@ Explain your solution to the problem in detail here.
 
 #### Architecture Diagram
 
-Affix an image of the flow diagram/architecture diagram of the solution
 
 #### Technical Description
 
 * The Technoogies used here are:
-   *  Flutter : For development of the App so the app can be deployed for both IOS and Android
-   * Fire base is used to store result of the Voting and Save voters identity.
+   *  **Flutter : For development of the App so the app can be deployed for both IOS and Android**
+   *  **Fire base is used to store result of the Voting and Save voters identity.**
 
 * Setup/Installations required to run the solution
      * Run the APK provided in any android devive running Android 9 or later. or IOS 11 or later.
