@@ -17,7 +17,7 @@ The solution Given by me is an **Flutter** based Android(*also deployable in IOS
 Explain your solution to the problem in detail here.
 
 #### Architecture Diagram
-
+<img src="https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./project.png" width="250" height="700">
 
 #### Technical Description
 
