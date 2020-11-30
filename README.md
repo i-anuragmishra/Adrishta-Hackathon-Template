@@ -17,7 +17,7 @@ I tried that voting experince should be semaless and simple . That's why app has
 
 
 #### Architecture Diagram
-<img src="https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./project.png" width="250" height="700">
+<img src="https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./project.png" width="270" height="700">
 
 #### Technical Description
 
