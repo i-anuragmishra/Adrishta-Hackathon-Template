@@ -38,9 +38,8 @@ Affix the relevant screenshots of the developed project here.
 List of team member names and email IDs with their contributions.
 |Member Name|Email|Contribution|
 |-----------|-----|------------|
-|Member 1|mem1@example.com|Something important|
-|Member 2|mem2@example.com|Something important|
-|Member 3|mem3@example.com|Something important|
+|Member 1|goforanuragmishra@gmail.com|DID THE WHOLE PROJECT BY HIMSELF|
+
 
 ### References
 Affix links to the online tools/repositories/blogs etc., which helped you along the development of the project
