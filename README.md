@@ -24,9 +24,9 @@ Affix an image of the flow diagram/architecture diagram of the solution
 
 #### Technical Description
 
-    * The Technoogies used here are:
-         * Flutter : For development of the App so the app can be deployed for both IOS and Android
-         * Fire base is used to store result of the Voting and Save voters identity.
+* The Technoogies used here are:
+   *  Flutter : For development of the App so the app can be deployed for both IOS and Android
+   * Fire base is used to store result of the Voting and Save voters identity.
 
 * Setup/Installations required to run the solution
      * Run the APK provided in any android devive running Android 9 or later. or IOS 11 or later.
