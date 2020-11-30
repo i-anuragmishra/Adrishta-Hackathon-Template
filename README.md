@@ -38,7 +38,7 @@ Affix the relevant screenshots of the developed project here.
 List of team member names and email IDs with their contributions.
 |Member Name|Email|Contribution|
 |-----------|-----|------------|
-|Member 1|goforanuragmishra@gmail.com|DID THE WHOLE PROJECT BY HIMSELF|
+|ANURAG MISHRA|goforanuragmishra@gmail.com|DID THE WHOLE PROJECT BY HIMSELF|
 
 
 ### References
