@@ -89,7 +89,25 @@ class MyApp extends StatelessWidget {
                     ),
                   ),
                   SizedBox(
-                    height: 24.0,
+                    height: 8.0,
+                  ),
+                  Padding(
+                    padding: EdgeInsets.symmetric(vertical: 7.0),
+                    child: Material(
+                      color: Colors.amberAccent,
+                      borderRadius: BorderRadius.all(Radius.circular(20.0)),
+                      elevation: 5.0,
+                      child: MaterialButton(
+                        onPressed: () {
+                          //Implement login functionality.
+                        },
+                        minWidth: 100.0,
+                        height: 30.0,
+                        child: Text(
+                          'Log In',
+                        ),
+                      ),
+                    ),
                   ),
                 ],
               ),
