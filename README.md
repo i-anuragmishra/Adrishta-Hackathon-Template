@@ -35,10 +35,10 @@ I tried that voting experince should be semaless and simple . That's why app has
 
 ### Screenshots
 #### Login Page:
-<img src="https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./Screenshot%202020-11-30%20at%207.41.31%20PM.png" width="250" height="550">
+<img src="https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./Screenshot%202020-11-30%20at%207.41.31%20PM.png" width="270" height="550">
 
 #### Voting Interface:
-<img src="https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./Screenshot%202020-12-01%20at%203.54.09%20AM.png" width="250" height="550">
+<img src="https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./Screenshot%202020-12-01%20at%203.54.09%20AM.png" width="270" height="550">
 
 
 
