@@ -1,5 +1,5 @@
 ## Team Number \08 - \smitvoter
-![](https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./SecurityLogo.jpg =200x)
+![](https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./SecurityLogo.jpg =200x100)
 
 The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). *Clone the repo on your local system and build on top of that*
 
