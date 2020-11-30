@@ -1,4 +1,5 @@
 ## Team Number \08 - \smitvoter
+<img src="https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./SecurityLogo.jpg" width="250" height="250">
 
 The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). *Clone the repo on your local system and build on top of that*
 
@@ -37,9 +38,8 @@ Affix the relevant screenshots of the developed project here.
 List of team member names and email IDs with their contributions.
 |Member Name|Email|Contribution|
 |-----------|-----|------------|
-|Member 1|mem1@example.com|Something important|
-|Member 2|mem2@example.com|Something important|
-|Member 3|mem3@example.com|Something important|
+|ANURAG MISHRA|goforanuragmishra@gmail.com|DID THE WHOLE PROJECT BY HIMSELF|
+
 
 ### References
 Affix links to the online tools/repositories/blogs etc., which helped you along the development of the project
