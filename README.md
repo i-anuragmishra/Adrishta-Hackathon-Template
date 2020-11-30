@@ -26,10 +26,15 @@ Affix an image of the flow diagram/architecture diagram of the solution
 
 An overview of:
 * What technologies/versions were used
+        The Technoogies used here are:
+         * Flutter : For development of the App so the app can be deployed for both IOS and Android
+         * Fire base is used to store result of the Voting and Save voters identity.
 
 * Setup/Installations required to run the solution
+     * Run the APK provided in any android devive running Android 9 or later. or IOS 11 or later.
 
 * Instructions to run the submitted code
+     * Initialise code in Andoid studio and Create the apk .
 
 ### Screenshots
 #### Login Page:
@@ -44,4 +49,4 @@ List of team member names and email IDs with their contributions.
 
 
 ### References
-Affix links to the online tools/repositories/blogs etc., which helped you along the development of the project
+The github repository for this project is : https://github.com/i-anuragmishra/Adrishta-Hackathon-Template
