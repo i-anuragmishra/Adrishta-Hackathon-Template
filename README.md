@@ -32,7 +32,9 @@ An overview of:
 * Instructions to run the submitted code
 
 ### Screenshots
-Affix the relevant screenshots of the developed project here.
+#### Login Page:
+<img src="https://github.com/i-anuragmishra/Adrishta-Hackathon-Template/blob/master/Application%20Code/Additional%20resources./Screenshot%202020-11-30%20at%207.41.31%20PM.png" width="250" height="500">
+
 
 ### Team Members
 List of team member names and email IDs with their contributions.
