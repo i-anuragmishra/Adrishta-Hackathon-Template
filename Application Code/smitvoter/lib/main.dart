@@ -36,11 +36,60 @@ class MyApp extends StatelessWidget {
                         fontWeight: FontWeight.bold,
                         color: Colors.amber),
                   ),
+                  SizedBox(
+                    height: 8,
+                  ),
                   TextField(
+                    onChanged: (value) {
+                      //Do something with the user input.
+                    },
                     decoration: InputDecoration(
-                      border: InputBorder.none,
-                      hintText: ('Enter a search term'),
+                      hintText: 'Enter your email',
+                      contentPadding: EdgeInsets.symmetric(
+                          vertical: 10.0, horizontal: 15.0),
+                      border: OutlineInputBorder(
+                        borderRadius: BorderRadius.all(Radius.circular(20.0)),
+                      ),
+                      enabledBorder: OutlineInputBorder(
+                        borderSide: BorderSide(
+                            color: Colors.lightBlueAccent, width: 0.5),
+                        borderRadius: BorderRadius.all(Radius.circular(20.0)),
+                      ),
+                      focusedBorder: OutlineInputBorder(
+                        borderSide:
+                            BorderSide(color: Colors.amberAccent, width: 2.0),
+                        borderRadius: BorderRadius.all(Radius.circular(20.0)),
+                      ),
                     ),
+                  ),
+                  SizedBox(
+                    height: 8.0,
+                  ),
+                  TextField(
+                    onChanged: (value) {
+                      //Do something with the user input.
+                    },
+                    decoration: InputDecoration(
+                      hintText: 'Enter your password.',
+                      contentPadding: EdgeInsets.symmetric(
+                          vertical: 10.0, horizontal: 20.0),
+                      border: OutlineInputBorder(
+                        borderRadius: BorderRadius.all(Radius.circular(20.0)),
+                      ),
+                      enabledBorder: OutlineInputBorder(
+                        borderSide:
+                            BorderSide(color: Colors.amberAccent, width: 0.5),
+                        borderRadius: BorderRadius.all(Radius.circular(20.0)),
+                      ),
+                      focusedBorder: OutlineInputBorder(
+                        borderSide:
+                            BorderSide(color: Colors.amberAccent, width: 1.0),
+                        borderRadius: BorderRadius.all(Radius.circular(20.0)),
+                      ),
+                    ),
+                  ),
+                  SizedBox(
+                    height: 24.0,
                   ),
                 ],
               ),
