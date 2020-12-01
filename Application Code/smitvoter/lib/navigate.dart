@@ -1,9 +1,14 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(Navigate());
+//void main() => runApp(Navigate());
 
-class Navigate extends StatelessWidget {
+class Navigate extends StatefulWidget {
+  static String id = 'Navigate';
   @override
+  _Navigate createState() => _Navigate();
+}
+
+class _Navigate extends State<Navigate> {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(primarySwatch: Colors.amber),

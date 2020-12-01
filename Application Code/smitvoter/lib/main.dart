@@ -1,11 +1,17 @@
 import 'package:flutter/material.dart';
+import 'package:smitvoter/Navigate.dart';
 
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
+  static String id = 'MyApp';
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+        //routes: {
+        // MyApp.id: (context) => Navigate(),
+        // Navigate.id: (context) => Navigate(),
+        //},
         theme: ThemeData(primarySwatch: Colors.amber),
         home: Scaffold(
           appBar: AppBar(
@@ -99,6 +105,12 @@ class MyApp extends StatelessWidget {
                       elevation: 5.0,
                       child: MaterialButton(
                         onPressed: () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => Navigate(),
+                            ),
+                          );
                           //Implement login functionality.
                         },
                         minWidth: 100.0,
